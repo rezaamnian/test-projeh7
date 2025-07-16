@@ -3,5 +3,10 @@
 }
 
 .vr{
-    color:brown
+    color:brown;
+    margin:10px
+}
+
+.hr{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
